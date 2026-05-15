@@ -6,7 +6,7 @@ Architect a Trello-style Task Management Board utilizing React.js.
 - Create new tasks dynamically
 - Move tasks between columns
 - Delete tasks instantly
-- Drag-and-drop support using dnd-kit
+- move the states one to another by clicking arrows
 - Real-time task search filtering
 - Responsive UI design
 - State management with React Hooks
