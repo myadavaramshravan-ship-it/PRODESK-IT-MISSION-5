@@ -16,7 +16,6 @@ Architect a Trello-style Task Management Board utilizing React.js.
 - Vite
 - JavaScript
 - CSS
-- dnd-kit
 
 ## Learning Objectives
 This project was developed to practice:
