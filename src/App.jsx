@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-import TaskForm from "./components/TaskForm";
+import TaskForm from "./components/Taskform";
 import Column from "./components/Column";
 import TaskCard from "./components/TaskCard";
 
